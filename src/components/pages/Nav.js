@@ -5,7 +5,7 @@ function Nav (){
 
        <nav className="m-5 " >
        <ul class="nav flex-md-column  " className="navigation" >
-        <h1 className="text-center">D</h1>
+        <h1 className="text-center">DH</h1>
   <li class="nav-item m-2">
     <Link class="nav-link link " aria-current="page" to="/">Home</Link>
   </li>
